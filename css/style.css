@@ -1,0 +1,37 @@
+
+header {
+    background-color: #FFFBF0;
+}
+
+p {
+    text-align: justify;
+}
+
+/* Utility Classes */
+.b-color {
+    background-color: #8caa17;
+    color: white;
+}
+
+.text-rang {
+    color: #363958;
+}
+
+.prize {
+    margin: 0;
+}
+
+.card {
+    border: none;
+    border-radius: 1.2rem;
+}
+.img-body {
+    padding: 1rem;
+    background: #F1F1F1;
+    border-radius: 20px;
+}
+
+.btn:hover {
+    background: #647b0a;
+    color: white;
+}
